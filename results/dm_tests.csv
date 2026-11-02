@@ -1,0 +1,6 @@
+model_1,model_2,dm_stat,p_value
+climatology,linear_qr,20.258977,0.0
+linear_qr,gbm_nwp,9.343233,0.0
+gbm_nwp,gbm_nwp_tso,9.78104,0.0
+tso_point,gbm_nwp_tso,16.928599,0.0
+tso_point,gbm_nwp,1.297995,0.195111
