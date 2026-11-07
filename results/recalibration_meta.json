@@ -1,0 +1,11 @@
+{
+  "window_days": 90,
+  "delay_days": 2,
+  "mondrian_bins": 3,
+  "regime_edges_cf": [
+    0.09908099999999999,
+    0.22508966666666663
+  ],
+  "ramp_threshold_cf_3h": 0.10100128102060615,
+  "n_hours": 8732
+}

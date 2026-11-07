@@ -1,0 +1,10 @@
+model,variant_1,variant_2,dm_stat,p_value
+linear_qr,raw,global,-0.195017,0.845489
+linear_qr,raw,mondrian,2.289418,0.022627
+linear_qr,global,mondrian,3.093142,0.002133
+gbm_nwp,raw,global,4.200316,3.4e-05
+gbm_nwp,raw,mondrian,3.595644,0.000368
+gbm_nwp,global,mondrian,0.6826,0.495294
+gbm_nwp_tso,raw,global,3.348478,0.000897
+gbm_nwp_tso,raw,mondrian,2.250466,0.025016
+gbm_nwp_tso,global,mondrian,0.201746,0.840228
